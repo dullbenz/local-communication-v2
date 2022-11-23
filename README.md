@@ -44,5 +44,8 @@ On the second computer,
 ![Connect](https://github.com/dullbenz/local-communication-v2/blob/main/usage-images/Screenshot%20from%202022-11-23%2009-25-02.png)
 
 You should now be able to share files and text between the two computers within the chat box that opens
+![Chat box](https://github.com/dullbenz/local-communication-v2/raw/main/usage-images/Screenshot%20from%202022-11-23%2010-01-12.png)
+
+The received file will be stored in the received folder of the project
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[8d4ed60](https://github.com/SimulatedGREG/electron-vue/tree/8d4ed607d65300381a8f47d97923eb07832b1a9a) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
